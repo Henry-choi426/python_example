@@ -25,3 +25,20 @@ def solution(prices):
     return answer
 
 print(solution(prices))
+
+# 방법 2. 코드 간소화
+
+def solution2(prices):
+
+    rep = len(prices)
+    answer = [0] * rep
+
+    for v in range(rep):
+        for i in range(v+1,rep):
+            answer[v] += 1
+            if prices[i] < prices[v]: # 미래가 현재보다 작은 경우 
+                break
+            
+    return answer
+
+print(solution2(prices))
