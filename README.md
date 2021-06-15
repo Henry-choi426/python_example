@@ -21,3 +21,5 @@ Example_0609 : 코딩테스트 연습 - 연습문제 - N개의 최소공배수
 Example_0610 : 백준 - DFS와 BFS
 
 Example_0613 : 백준 - 바이러스
+
+Example_0615 : 백준 - 팩토리얼 진법
