@@ -35,3 +35,5 @@ Example_0620 : 코딩테스트 연습 - 해시 - 완주하지 못한 선수
 Example_0702 : 백준 - 이진수 변환
 
 Example_0703 : 백준 - 팩토리얼
+
+Example_0705 : 코딩테스트 연습 - 2020 KAKAO BLIND RECRUITMENT - 괄호변환
