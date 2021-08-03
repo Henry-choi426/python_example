@@ -47,3 +47,5 @@ Example_0717 : 코딩테스트 연습 - Summer/Winter Coding(~2018) - 배달
 Example_0723 : 백준 - 특정 거리의 도시 찾기
 
 Example_0803 : 코딩테스트 연습 - 탐욕법 - 체육복
+
+Example_0804 :백준 - 전자레인지
